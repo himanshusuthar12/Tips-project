@@ -1,2 +1,1 @@
-# Tips project
- Restorent tips project 
+The data has a Restorent data
